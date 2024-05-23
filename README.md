@@ -1,4 +1,4 @@
-# Converter_csv_em_xlsx_grande_quantidade
+# Esse código foi usado em Jupyter para converter 1000 arquivos csv em xlsx
 
 import pandas as pd
 import os
