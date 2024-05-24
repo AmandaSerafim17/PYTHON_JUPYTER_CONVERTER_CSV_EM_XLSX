@@ -1,4 +1,4 @@
-# Esse código foi usado em Jupyter para converter 1000 arquivos csv em xlsx
+# código usado em Jupyter
 
 import pandas as pd
 import os
